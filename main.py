@@ -6,8 +6,8 @@ WEIGHT_KG = "220"
 HEIGHT_CM = "190"
 AGE = "20"
 
-APP_ID = "416c122a"
-API_KEY = "91a215954121ff73e784ce4ae295ebef"
+APP_ID = "Your ID"
+API_KEY = "Your Key"
 
 excersize_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
 sheety_endpoint = "https://api.sheety.co/565ccd2fcabce96fb2a5b7a24848957a/workouts/workouts"
